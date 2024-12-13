@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Buy groceries",
+        "description": "Milk, eggs, bread",
+        "completed": false,
+        "dueDate": "2024-11-20"
+    },
+    {
+        "id": 2,
+        "title": "Finish project report",
+        "description": "Submit by end of day",
+        "completed": false,
+        "dueDate": "2024-11-15"
+    },{
+        "id": 13,
+        "title": "Buy groceries",
+        "description": "Milk, eggs, bread",
+        "completed": false,
+        "dueDate": "2024-11-20"
+    },
+    {
+        "id": 24,
+        "title": "Finish project report",
+        "description": "Submit by end of day",
+        "completed": false,
+        "dueDate": "2024-11-15"
+    },{
+        "id": 15,
+        "title": "Buy groceries",
+        "description": "Milk, eggs, bread",
+        "completed": false,
+        "dueDate": "2024-11-20"
+    },
+    {
+        "id": 25,
+        "title": "Finish project report",
+        "description": "Submit by end of day",
+        "completed": false,
+        "dueDate": "2024-11-15"
+    }
+]

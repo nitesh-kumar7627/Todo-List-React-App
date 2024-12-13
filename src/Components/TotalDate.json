@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "title": "Buy groceries",
+        "description": "Milk, eggs, bread",
+        "completed": false,
+        "dueDate": "2024-11-20"
+    },
+    {
+        "id": 2,
+        "title": "Finish project report",
+        "description": "Submit by end of day",
+        "completed": false,
+        "dueDate": "2024-11-15"
+    },
+    {
+        "id": 3,
+        "title": "Call John",
+        "description": "Discuss meeting schedule",
+        "completed": false,
+        "dueDate": null
+    },
+    {
+        "id": 4,
+        "title": "Clean room",
+        "description": "Dust and vacuum",
+        "completed": false,
+        "dueDate": "2024-11-18"
+    },
+    {
+        "id": 5,
+        "title": "Pay bills",
+        "description": "Electricity, water, rent",
+        "completed": false,
+        "dueDate": "2024-11-25"
+    },
+    {
+        "id": 6,
+        "title": "Learn React",
+        "description": "Complete tutorial",
+        "completed": false,
+        "dueDate": "2024-11-22"
+    },
+    {
+        "id": 7,
+        "title": "Meet Sarah",
+        "description": "Lunch at 1 PM",
+        "completed": false,
+        "dueDate": "2024-11-16"
+    },
+    {
+        "id": 8,
+        "title": "Fix bike",
+        "description": "Replace tire",
+        "completed": false,
+        "dueDate": "2024-11-19"
+    },
+    {
+        "id": 9,
+        "title": "Write blog post",
+        "description": "Publish by tomorrow",
+        "completed": false,
+        "dueDate": "2024-11-17"
+    },
+    {
+        "id": 10,
+        "title": "Practice guitar",
+        "description": "30 minutes daily",
+        "completed": false,
+        "dueDate": null
+    },
+    {
+        "id": 11,
+        "title": "Buy gift",
+        "description": "For sister's birthday",
+        "completed": false,
+        "dueDate": "2024-11-24"
+    },
+    {
+        "id": 12,
+        "title": "Learn JavaScript",
+        "description": "Complete course",
+        "completed": false,
+        "dueDate": "2024-12-01"
+    },
+    {
+        "id": 13,
+        "title": "Visit doctor",
+        "description": "Annual checkup",
+        "completed": false,
+        "dueDate": "2024-11-26"
+    },
+    {
+        "id": 14,
+        "title": "Clean car",
+        "description": "Wash and wax",
+        "completed": false,
+        "dueDate": "2024-11-23"
+    },
+    {
+        "id": 15,
+        "title": "Pay taxes",
+        "description": "Quarterly payment",
+        "completed": false,
+        "dueDate": "2024-11-28"
+    },
+    {
+        "id": 16,
+        "title": "Attend conference",
+        "description": "Register by tomorrow",
+        "completed": false,
+        "dueDate": "2024-11-29"
+    },
+    {
+        "id": 17,
+        "title": "Learn Python",
+        "description": "Complete tutorial",
+        "completed": false,
+        "dueDate": "2024-12-05"
+    },
+    {
+        "id": 18,
+        "title": "Meet Mike",
+        "description": "Discuss project",
+        "completed": false,
+        "dueDate": "2024-11-30"
+    },
+    {
+        "id": 19,
+        "title": "Fix computer",
+        "description": "Replace RAM",
+        "completed": false,
+        "dueDate": "2024-12-03"
+    },
+    {
+        "id": 20,
+        "title": "Write article",
+        "description": "Publish by next week",
+        "completed": false,
+        "dueDate": "2024-12-06"
+    },
+    {
+        "id": 21,
+        "title": "Practice yoga",
+        "description": "30 minutes daily",
+        "completed": false,
+        "dueDate": null
+    }
+]
